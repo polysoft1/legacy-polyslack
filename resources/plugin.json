@@ -1,0 +1,6 @@
+{
+	"name" : "!PLUGIN_NAME",
+	"binaries" : {
+		"!OS": {}
+	}
+}
